@@ -16,5 +16,4 @@
 ### I am SHIJIN ,
 - An Cyber Security Enthusiast.
 - A B.Tech graduate in computer science.
-- 
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I'm currently looking for opportunities. I love to learn and fix 
