@@ -15,5 +15,6 @@
 
 ### I am SHIJIN ,
 - An Cyber Security Enthusiast.
+- Certified Ethical Hacker V11
 - A B.Tech graduate in computer science.
 - I'm currently looking for opportunities. I love to learn and fix 
