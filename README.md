@@ -18,3 +18,5 @@
 - Certified Ethical Hacker V11
 - A B.Tech graduate in computer science.
 - I'm currently looking for opportunities. I love to learn and fix 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/shijin.png" alt="TryHackMe">
